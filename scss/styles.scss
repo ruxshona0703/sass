@@ -1,0 +1,15 @@
+
+@charset "utf-8";
+@import "normalize.scss";
+@import "variables.scss";
+@import "mixins.scss";
+@import "fonts.scss";
+@import "generals.scss";
+@import "./blocks/all_blocks";
+
+
+
+p{
+    color: #002232;
+    display: grid;
+}
